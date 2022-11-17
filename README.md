@@ -1,4 +1,4 @@
-# Cifer-encoding-in-C
+//Cifer-encoding-in-C
 
 #include<stdio.h>
 #include<string.h>
